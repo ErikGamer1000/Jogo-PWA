@@ -5,7 +5,7 @@
   "background_color": "#000000",
   "display": "fullScreen",
   "orientation": "any",
-  "scope": "/",
+  "scope": "./",
   "start_url": "./jogo2022_2b.html",
   "icons": [
     {
