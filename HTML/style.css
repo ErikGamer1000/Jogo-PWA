@@ -1,0 +1,346 @@
+body {
+background-color:blue;
+}
+
+audio {
+position: absolute;
+width: 15vw;
+background-color: black;
+border: 2px solid;
+border-color: green;
+}
+
+#timerjogo {
+margin-left: auto;
+margin-right: auto;
+width: 3vw;
+color: white;
+background-color: black;
+border: 2px solid;
+border-color: green;
+}
+
+#mensagem {
+position: absolute;
+top: 42vw;
+left: 55vw;
+width: 15vw;
+height: 6.5vw;
+text-align: center;
+background-color: black;
+border: 2px solid;
+border-color: green;
+color: white;
+}
+
+#início {
+position: absolute;
+top: 42vw;
+left: 75vw;
+width: 15vw;
+height: 6.5vw;
+text-align: center;
+background-color: black;
+border: 2px solid;
+border-color: green;
+color: white;
+}
+
+#reinicio {
+position: absolute;
+top: 52vw;
+left: 75vw;
+width: 15vw;
+height: 6.5vw;
+text-align: center;
+background-color: black;
+border: 2px solid;
+border-color: green;
+color: white;
+}
+
+#limpar {
+position: absolute;
+top: 52vw;
+left: 55vw;
+width: 15vw;
+height: 6.5vw;
+text-align: center;
+background-color: black;
+border: 2px solid;
+border-color: green;
+color: white;
+}
+
+#reiniciar {
+color: purple;
+background-color: black;
+text-align: center;
+}
+
+#iniciar {
+color: purple;
+background-color: black;
+text-align: center;
+}
+
+#limpe {
+color: purple;
+background-color: black;
+text-align: center;
+}
+
+.fundo {
+position: absolute;
+top: 5vw;
+left:5vw;
+width: 90vw;
+height: 40vw;
+background-color: black;
+border: 2px solid;
+border-color: green;
+text-align: center;
+}
+
+.painel {
+position: absolute;
+top:42vw; 
+left:30vw; 
+text-align: center;
+background-color: black;
+border: 2px solid;
+border-color: green;
+} 
+
+button {
+background-color: white;
+color: purple;
+}
+
+#div8 {
+position: absolute;
+top: 52vw;
+left: 30vw;
+width: 10.3vw;
+height: 10vw;
+text-align: center;
+background-color: black;
+border: 2px solid;
+border-color: green;
+color: white;
+}
+
+#div7 {
+position: absolute;
+top: 10vw;
+left: 60vw;
+width: 5vw;
+height: 5vw;
+background-image: url("./Flamengo_braz_logo.svg.png");
+background-size: 100% 100%;
+}
+
+#div6 {
+position: absolute;
+top: 10vw;
+left: 25vw;
+width: 5vw;
+height: 5vw;
+background-image: url("./Flamengo_braz_logo.svg.png");
+background-size: 100% 100%;
+}
+
+#div5 {
+position: absolute;
+top: 20vw;
+left: 42vw;
+width: 5vw;
+height: 5vw;
+background-image: url("./Flamengo_braz_logo.svg.png");
+background-size: 100% 100%;
+}
+
+#div4 {
+position: absolute;
+top: 20vw;
+left: 42vw;
+width: 5vw;
+height: 5vw;
+background-image: url("./Flamengo_braz_logo.svg.png");
+background-size: 100% 100%;
+}
+
+#div3 {
+position: absolute;
+top: 10vw;
+left: 42vw;
+width: 5vw;
+height: 5vw;
+background-image: url("./Flamengo_braz_logo.svg.png");
+background-size: 100% 100%;
+}
+
+#div2 {
+position: absolute; 
+top: 10vw; 
+left: 42vw; 
+width: 5vw; 
+height: 5vw; 
+background-image: url("./Flamengo_braz_logo.svg.png");
+background-size: 100% 100%;
+}
+
+#div1 {
+position: absolute;
+top: 35vw;
+left: 50vw; 
+width: 2vw; 
+height: 2vw; 
+background-image: url("./internacional.svg");
+background-size: 100% 100%;
+}
+
+#v1 {
+position: absolute;
+top: 3vw;
+left: 5vw;
+width: 3vw;
+height: 3vw;
+background-image: url("./download.jpeg");
+background-size: 100% 100%;
+}
+
+#v5 {
+position: absolute;
+top: 3vw;
+left: 80vw;
+width: 3vw;
+height: 3vw;
+background-image: url("./download.jpeg");
+background-size: 100% 100%;
+}
+
+@media (max-width: 400px) {
+
+    #timerjogo {
+        margin-left: auto;
+        margin-right: auto;
+        width: 9vw;
+        color: white;
+        background-color: black;
+        border: 2px solid;
+        border-color: green;
+        }
+
+        
+#mensagem {
+    position: absolute;
+    top: 73vw;
+    left: 0.1vw;
+    width: 33vw;
+    height: 4.5vw;
+    text-align: center;
+    background-color: black;
+    border: 2px solid;
+    border-color: green;
+    color: white;
+    }
+    
+    #início {
+    position: absolute;
+    top: 42vw;
+    left: 45vw;
+    width: 45vw;
+    height: 21vw;
+    text-align: center;
+    background-color: black;
+    border: 2px solid;
+    border-color: green;
+    color: white;
+    }
+    
+    #reinicio {
+    position: absolute;
+    top: 65vw;
+    left: 45vw;
+    width: 45vw;
+    height: 21vw;
+    text-align: center;
+    background-color: black;
+    border: 2px solid;
+    border-color: green;
+    color: white;
+    }
+    
+    #limpar {
+    position: absolute;
+    top: 88vw;
+    left: 45vw;
+    width: 45vw;
+    height: 21vw;
+    text-align: center;
+    background-color: black;
+    border: 2px solid;
+    border-color: green;
+    color: white;
+    }
+
+    #reiniciar {
+        color: purple;
+        background-color: black;
+        text-align: center;
+        }
+        
+        #iniciar {
+        color: purple;
+        background-color: black;
+        text-align: center;
+        }
+        
+        #limpe {
+        color: purple;
+        background-color: black;
+        text-align: center;
+        }
+
+    .fundo {
+        position: absolute;
+        top: 9vw;
+        left:5vw;
+        width: 90vw;
+        height: 40vw;
+        background-color: black;
+        border: 2px solid;
+        border-color: green;
+        text-align: center;
+        }
+
+        .painel {
+            position: absolute;
+            top:42vw; 
+            left:0.1vw; 
+            text-align: center;
+            background-color: black;
+            border: 2px solid;
+            border-color: green;
+            } 
+            
+            button {
+            background-color: white;
+            color: purple;
+            }
+
+            #div8 {
+                position: absolute;
+                top: 82vw;
+                left: 0.1vw;
+                width: 33vw;
+                height: 25vw;
+                text-align: center;
+                background-color: black;
+                border: 2px solid;
+                border-color: green;
+                color: white;
+                }
+
+}
